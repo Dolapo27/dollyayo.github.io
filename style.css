@@ -1,0 +1,106 @@
+body{
+    background-color:#002155 ;
+    color: #fff;
+    font-size: 16px;
+}
+
+
+#header-nav{
+    background-color:#002155 ;
+    border-radius: 0px;
+    border: 0px;
+    
+}
+
+.navbar-default .navbar-nav > li > a{
+    color: #fff;
+}
+
+#logo-img{
+    margin-top: 10px;
+    opacity: .3;
+}
+
+#firstform{
+    margin-left: 150px;
+}
+
+
+h1{
+    font-size: 72px;
+    
+}
+
+p{
+    color: lightblue;
+}
+
+.btn{
+    background-color:#002155;
+    border:1px solid #fff;
+    
+}
+
+
+.forgithub{
+    background-color: #2ea44f;
+    margin-top: 10px;
+    
+}
+
+/* .form-control{
+    width: 100%;
+} */
+
+.navbar-toggle{
+    border: none;
+    ;
+}
+
+
+
+
+
+/* large screen */
+@media (min-width:1200px){
+    .forgithub{
+       margin-top: 0px;
+    }
+}
+
+
+/* medium screen */
+@media (min-width:992px) and (max-width:1199px){
+    #firstform{
+    margin-right: -50px;
+    margin-top: -90px;
+}
+
+    
+}
+
+
+/* small screen */
+@media (min-width:768px ) and (max-width:991px){
+    .forgithub{
+        width: 70%;
+    }
+    
+}
+    
+    
+
+
+/* extra small screen */
+@media (max-width:767px){
+    .forgithub{
+        width: 100%;
+    }
+
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    } 
+}
