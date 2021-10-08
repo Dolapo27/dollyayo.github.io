@@ -1,12 +1,12 @@
 body{
-    background-color:#002155 ;
+    background-color:#020b1b ;
     color: #fff;
     font-size: 16px;
 }
 
 
 #header-nav{
-    background-color:#002155 ;
+    background-color:#020b1b ;
     border-radius: 0px;
     border: 0px;
     
@@ -28,15 +28,19 @@ body{
 
 h1{
     font-size: 72px;
+    font-family: "Alliance No.1",-apple-system,BlinkMacSystemFont,
+                "Segoe UI",Helvetica,Arial,sans-serif,
+                "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: 800 !important;            
     
 }
 
 p{
-    color: lightblue;
+    color: rgb(112, 137, 146);
 }
 
 .btn{
-    background-color:#002155;
+    background-color:#020b1b;
     border:1px solid #fff;
     
 }
@@ -44,7 +48,7 @@ p{
 
 .forgithub{
     background-color: #2ea44f;
-    margin-top: 10px;
+    margin-top: 0px;
     
 }
 
@@ -54,8 +58,273 @@ p{
 
 .navbar-toggle{
     border: none;
-    ;
+    
 }
+
+.first-border{
+    font-family: ui-monospace,SFMono-Regular,
+    SF Mono,Menlo,Consolas,Liberation Mono,monospace !important;
+}
+.dev{
+    float: left;
+    padding: 24px;
+}
+.org{
+    float: left;
+    padding: 24px;
+}
+.rep{
+    float: left;
+    padding: 24px;
+}
+.fort{
+    float: left;
+    padding: 24px;
+}
+
+.first-border p{
+    font-size: 12px;
+}
+h2{
+    font-size: 20px;
+}
+
+
+#secondpart{
+    background-color: #fff;
+    border-top: 1px solid #fff;
+    padding: 50px;
+}
+
+#stripe{
+    border: 1px solid rgb(214, 211, 211);
+    border-radius: 5px;
+    margin-bottom: 80px;
+    
+}
+
+h3{
+    color: #627596;
+    font-size: 30px;
+    font-weight:bold;
+    font-family: "Alliance No.1", -apple-system, BlinkMacSystemFont, 
+                "Segoe UI", Helvetica, Arial,
+                sans-serif, "Apple Color Emoji", "Segoe UI Emoji", 
+                "Segoe UI Symbol";
+}
+
+#second{
+    padding: 20px;
+   
+}
+
+#secondpart span > a{
+    margin-right: 40px;
+    color: grey;
+}
+
+#thirdpart{
+    padding: 30px;
+}
+
+#tip1{
+    margin-bottom: 400px;
+}
+.give{
+    color:  rgb(116, 168, 228);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.record{
+    color: #afb8c1;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.host{
+    color: #fff;
+}
+.gitlink{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration:underline 2px grey;
+}
+
+#tip2{
+    margin-bottom: 200px;
+}
+.built{
+    color:  rgb(116, 168, 228);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.write{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.find{
+    color: #afb8c1;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+#fourthpart{
+    background-color: #fff;
+    padding-top: 100px;
+    font-family: "Alliance No.1", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
+     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    padding-bottom: 50px; 
+}
+.ready{
+    color: rgb(170, 107, 207);
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.2em;
+  
+}
+.scale{
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.0em;
+}
+.readyscale{
+    margin-bottom: 30px;
+}
+
+.create{
+    color: black;
+    font-size: 20px;
+    text-decoration: underline 2px rgb(163, 162, 162);
+}
+
+.betterconvo{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.better{
+    color: black;
+    font-weight: 600;
+    
+}
+.convo{
+    color: rgb(98, 117, 151);
+    font-weight: 600;
+}
+
+.revcov{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.review{
+    color: black;
+}
+
+.covers{
+    color: rgb(98, 117, 151);
+}
+
+.knowapprove{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-bottom: 500px;
+}
+.know{
+    color: black;
+}
+.approved{
+    color: rgb(98, 117, 151);
+}
+
+.moving{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.merge{
+    color: rgb(98, 117, 151);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.mobile{
+    color: rgba(26, 26, 223, 0.849);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.want{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+.gui{
+    color: rgb(98, 117, 151);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.desktop{
+    color: rgba(26, 26, 223, 0.849);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.av{
+    font-weight: 600;
+}
+.ava{
+    font-size:12px ;
+}
+
+
+#fifthpart{
+    background-color: #020b1b;
+    padding-top:200px ;
+}
+
+.blazing{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 80px; 
+    line-height: 1.2em;
+}
+
+.spaces{
+    color: rgb(116, 168, 228);
+    line-height: 0.6em;
+}
+.learnn{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(185, 182, 182);
+    
+   
+}
+
+
+.cloud{
+    margin-bottom: 300px;
+}
+
+.visual{
+    margin-bottom: 100px;
+}
+
 
 
 
@@ -75,7 +344,11 @@ p{
     margin-right: -50px;
     margin-top: -90px;
 }
-
+    .forgithub{
+        margin-top: 0px;
+        
+       
+}
     
 }
 
@@ -83,7 +356,10 @@ p{
 /* small screen */
 @media (min-width:768px ) and (max-width:991px){
     .forgithub{
-        width: 70%;
+        width: 30%;
+        margin-top: -57px;
+        margin-left: 210px;
+
     }
     
 }
@@ -95,6 +371,7 @@ p{
 @media (max-width:767px){
     .forgithub{
         width: 100%;
+        margin-top: 10px;
     }
 
     h1{
