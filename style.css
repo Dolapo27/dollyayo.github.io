@@ -319,11 +319,245 @@ h3{
 
 .cloud{
     margin-bottom: 300px;
+   
 }
 
 .visual{
     margin-bottom: 100px;
 }
+.customize{
+    margin-bottom: 300px;
+}
+
+
+
+
+#sixthpart{
+    background-color: #fff;
+    padding-top: 100px;
+}
+.automate{
+    color: black;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4em;
+    margin-bottom: 20px; 
+}
+.act{
+    color:rgb(170, 107, 207);
+    line-height: 0.7em;
+
+}
+.hub{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(185, 182, 182);
+}
+.pit1{
+    margin-bottom: 100px;
+}
+
+.fthousand{
+    color:rgb(170, 107, 207);
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.0em;
+}
+
+.own{
+    color: rgb(98, 117, 151);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.market{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(185, 182, 182);
+    margin-top: 20px;
+}
+
+.can{
+    color: rgb(98, 117, 151);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.matrix{
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-bottom: 50px;
+}
+
+.seventy{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 150px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.date{
+    color: rgb(98, 117, 151);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.Speak{
+    margin-bottom: 80px;
+}
+
+#seventhpart{
+    background-color: #020b1b;
+    padding-top:200px ;
+    padding-left: 200px;
+}
+.fix{
+    color: #fff;
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 1.0em;
+    margin-bottom: 200px;
+}
+.before{
+    color: orangered;
+}
+
+.prod{
+    color: rgb(98, 117, 151);
+    font-size: 24px;
+    font-weight: bold;
+}
+.it{
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold; 
+}
+.one{
+    margin-bottom: 200px;
+}
+
+#eighthpart{
+    background-color: #fff;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.home{
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 1.2em;
+}
+.ded{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.desc{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(185, 182, 182);
+}
+
+.rat{
+    margin-bottom: 250px;
+}
+
+.amp{
+    color: black;
+    font-size: 20px;
+    font-weight: bold; 
+}
+.tell{
+    color: rgb(98, 117, 151);
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+.cat{
+    margin-bottom: 350px;
+}
+
+#ninthpart{
+    background-color: #020b1b;
+    padding-top:300px ;
+    margin-bottom: 200px;
+}
+
+.cont{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.small{
+    color: rgb(98, 117, 151);
+    font-size: 24px;
+}
+
+.up{
+    background-color:#2ea44f ;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right:5px ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.con{
+    font-size: 18px;
+    font-weight: bold;
+    border:1px solid rgb(121, 127, 129);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+.panel-footer{
+    background-color: #fff;
+    padding-top: 50px;
+    color: rgb(119, 115, 115);
+    
+    
+}
+
+.pro{
+    font-size: 15px;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+}
+
+#product a{
+    color: rgb(119, 115, 115);
+    font-size: 13px;
+}
+
+#platform a{
+    color: rgb(119, 115, 115);
+    font-size: 13px;
+}
+
+#support a{
+    color: rgb(119, 115, 115);
+    font-size: 13px;
+}
+#company a{
+    color: rgb(119, 115, 115);
+    font-size: 13px;
+}
+
+
+
 
 
 
