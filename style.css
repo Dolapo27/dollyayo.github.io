@@ -2,6 +2,7 @@ body{
     background-color:#020b1b ;
     color: #fff;
     font-size: 16px;
+   
 }
 
 
@@ -92,7 +93,6 @@ h2{
 
 #secondpart{
     background-color: #fff;
-    border-top: 1px solid #fff;
     padding: 50px;
 }
 
@@ -486,6 +486,11 @@ h3{
 .cat{
     margin-bottom: 350px;
 }
+.mat{
+    margin-bottom: 350px;
+}
+
+
 
 #ninthpart{
     background-color: #020b1b;
